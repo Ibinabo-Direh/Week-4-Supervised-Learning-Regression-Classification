@@ -8,11 +8,11 @@ This repository contains two supervised machine learning projects completed for 
 ## 📁 Repository Structure
 
 ```
-├── titanic_ml.ipynb        # Task 2: Logistic Regression (Classification)
-├── housing_ml.ipynb        # Task 1: Linear Regression (Regression)
-├── evaluation_report.pdf   # Written evaluation report (see Deliverables)
+├── Titanic Classification Using LogisticRegression.ipynb        # Task 2: Logistic Regression (Classification)
+├── House Pricing Linear Regression.ipynb        # Task 1: Linear Regression (Regression)
+├── Week 4 Analyst Lab Reprt.docz   # Written evaluation report (see Deliverables)
 ├── data/
-│   ├── titanic_cleaned.csv
+│   ├── Cleaned Titanic.csv
 │   └── housing.csv
 └── README.md
 ```
@@ -81,5 +81,5 @@ This repository contains two supervised machine learning projects completed for 
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 
 ## Author
-[Ibinabo Direh] — AnalystLab Africa Intern, Week 4
+Ibinabo Direh — AnalystLab Africa Intern, Week 4
 `#AnalystLabAfrica`
